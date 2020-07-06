@@ -1,0 +1,33 @@
+body{
+  background: url(back.jpg)no-repeat center center fixed;
+
+background-size: cover;
+  font-family: 'Yellowtail', cursive;
+}
+
+
+.rowHeight{
+  height: 500px;
+}
+
+h1{
+  color: white;
+  font-size: 2.5em;
+}
+
+.bg{
+  background-color: #c1c1c1;
+  opacity: 0.8;
+}
+
+.footer{
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+
+}
+
+p{
+  font-size: 18px;
+  padding: 5px;
+}
